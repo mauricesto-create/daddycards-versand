@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/mauricesto-create/daddycards-versand/releases/download/ddv-v1.0.0/DaddysDealsVersandSetup-1.0.0.exe",
-  "sha256": "8c3ed970201a277535bf970f9271d2ad186167de2fe2ab3a4edbe6b88fc7eed9",
-  "release_notes": "Erste Version. Uebernimmt beim ersten Start automatisch die Daten der bisherigen Installation.",
-  "released_at": "2026-09-15T15:34:49Z",
-  "size_bytes": 56890491
+  "version": "1.0.1",
+  "url": "https://github.com/mauricesto-create/daddycards-versand/releases/download/ddv-v1.0.1/DaddysDealsVersandSetup-1.0.1.exe",
+  "sha256": "655b87567f695b9c81350a9de1e970a105026148db51afd583584d73715eacba",
+  "release_notes": "Test-Update: prueft den automatischen Update-Mechanismus.",
+  "released_at": "2026-09-15T18:57:34Z",
+  "size_bytes": 56889939
 }
