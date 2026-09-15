@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/mauricesto-create/daddycards-versand/releases/download/ddv-v1.0.1/DaddysDealsVersandSetup-1.0.1.exe",
-  "sha256": "655b87567f695b9c81350a9de1e970a105026148db51afd583584d73715eacba",
-  "release_notes": "Test-Update: prueft den automatischen Update-Mechanismus.",
-  "released_at": "2026-09-15T18:57:34Z",
-  "size_bytes": 56889939
+  "version": "1.0.2",
+  "url": "https://github.com/mauricesto-create/daddycards-versand/releases/download/ddv-v1.0.2/DaddysDealsVersandSetup-1.0.2.exe",
+  "sha256": "13b5e95a18bd74b9abe5bd8d6a8bc2cb03dd745bde42c894c897f76888c28743",
+  "release_notes": "Portokasse-Aktualisieren-Knopf wird jetzt vollstaendig angezeigt.",
+  "released_at": "2026-09-15T20:49:58Z",
+  "size_bytes": 56891407
 }
